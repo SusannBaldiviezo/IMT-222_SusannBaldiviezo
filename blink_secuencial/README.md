@@ -1,4 +1,4 @@
-# Práctica: Blink Secuencial - ESP32
+# Práctica: Blink Secuencial
 
 Implementación de secuencia de LEDs usando Arduino Framework.
 
