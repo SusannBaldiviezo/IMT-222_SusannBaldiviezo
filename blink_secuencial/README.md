@@ -12,7 +12,7 @@ Programa que enciende una tira de LEDs de forma secuencial con un intervalo conf
 - `parte_b.ino` - Versión modificada (15 LEDs, 0.5 segundos)
 - `parte_c.ino` - Código principal (versión final)
 
-## PARTE C
+## PARTE C  
 
 ### Eliminación de números mágicos
 
